@@ -6,7 +6,7 @@ export default class HolbertonCourse {
   /**
    * Creates a new @see {@link HolbertonCourse}.
    *
-   * @param {String} name - The course name
+   * @param {String} name - The course name.
    * @param {Number} length - How long the course is in months.
    * @param {String[]} students - The names of students taking the course.
    */
